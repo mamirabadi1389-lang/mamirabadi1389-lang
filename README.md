@@ -57,45 +57,45 @@ class MohammadAmirabadi:
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/mamirabadi1389-lang">
-  <img src="https://img.shields.io/badge/Hand%20Gesture%20Control-7F00FF?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/mamirabadi1389-lang">
-  <img src="https://img.shields.io/badge/Cancer%20Diagnosis-00A6C7?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/mamirabadi1389-lang">
-  <img src="https://img.shields.io/badge/To--Do%20App-00B894?style=for-the-badge&logo=mongodb&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/mamirabadi1389-lang">
-  <img src="https://img.shields.io/badge/Python%20Games-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mamirabadi1389-lang">
+        <img src="https://img.shields.io/badge/Hand%20Gesture%20Control-7F00FF?style=for-the-badge&logo=python&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mamirabadi1389-lang">
+        <img src="https://img.shields.io/badge/Cancer%20Diagnosis-00A6C7?style=for-the-badge&logo=python&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mamirabadi1389-lang">
+        <img src="https://img.shields.io/badge/To--Do%20App-00B894?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mamirabadi1389-lang">
+        <img src="https://img.shields.io/badge/Python%20Games-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 ---
+
+## GitHub Statistics
 
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mamirabadi1389-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=7F00FF&text_color=FFFFFF" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamirabadi1389-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF" />
-
-<br>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=mamirabadi1389-lang&theme=tokyonight&hide_border=true&background=0D1117&ring=7F00FF&fire=00C9FF&currStreakLabel=00C9FF" />
+<img
+  src="https://streak-stats.demolab.com?user=mamirabadi1389-lang&theme=tokyonight&hide_border=true&background=0D1117&ring=7F00FF&fire=00C9FF&currStreakLabel=00C9FF"
+  width="90%"
+  alt="GitHub Contribution Streak"
+/>
 
 </div>
 
