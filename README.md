@@ -53,8 +53,6 @@ class MohammadAmirabadi:
 
 </div>
 
----
-
 ## Featured Projects
 
 <table align="center">
@@ -83,9 +81,6 @@ class MohammadAmirabadi:
     </td>
   </tr>
 </table>
----
-
-## GitHub Statistics
 
 ## GitHub Statistics
 
