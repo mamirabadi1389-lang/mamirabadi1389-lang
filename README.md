@@ -63,13 +63,19 @@ class MohammadAmirabadi:
   <img src="https://img.shields.io/badge/Hand%20Gesture%20Control-7F00FF?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 
+<br><br>
+
 <a href="https://github.com/mamirabadi1389-lang">
   <img src="https://img.shields.io/badge/Cancer%20Diagnosis-00A6C7?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </a>
 
+<br><br>
+
 <a href="https://github.com/mamirabadi1389-lang">
   <img src="https://img.shields.io/badge/To--Do%20App-00B894?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
+
+<br><br>
 
 <a href="https://github.com/mamirabadi1389-lang">
   <img src="https://img.shields.io/badge/Python%20Games-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
