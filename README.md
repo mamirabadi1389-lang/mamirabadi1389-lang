@@ -1,32 +1,75 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:7F00FF&height=200&section=header&text=Mohammad%20Amirabadi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%7C%20Computer%20Vision&descAlignY=58&descSize=16"/>
+<pre>
+                                          !  !
+                                           &^!%@$#!@^ @
+                                           *$!^^^$^%&$@!$& !
+                                           &!@%^&^!#%@$^!%%!!^@
+                                           %$#$!^^%!%#^##%!&@@#@
+                                           &&&&^^^$^#!&@&%@@$#%
+                                     !^&! %#@!#%^&^&&&&&&#^^@^
+                                  %&&@    !!!#%%@@% @&&$&%@&&  @
+                                &^@       ^&#@!%  !  @^&@!$^     %@
+                              ^%         ^@ %!&#@ !@  ^^&#!@       %%
+                            ^#!         &@ $@^&^%  ^!!&  @^
+                           %%          @&!#^(^$#!  #  #  ^ %
+                          #&             %#^&#&@%#  %    #& $             !!
+                         $&              &^!#!&%%&  &  @%@^ &@            ^%
+                        &@               !@!^^!!&%  @   !##&@         &%  %
+                        !                $&!^^%%^   !!    @%@$         &  %
+                       ^@              @#@&&%&&     !#!&  ^%!^$        &  %  @%
+                       $&              @^^$%&       !$#!$@ %&^%       !^  ^  &
+                       #%              @##%       @^@&@@%&&^%$#@^    ^!  !%  &
+                       $^             #^       &%#&  &@!@@@%&%@@@  %@   %   @!
+                       &$                 !&@@#^%@ #$##!&  !!     !   ^   @!
+                        !             @!%&&&#@$!!&$$@@&   ^  !      @   @@
+                        ^             $#$%%@^$$ ^^#@!   &  &  !        @
+   @^^%%%$$%!!@#@@@@@@@@!@@!!!!!!!!!!!@@@@!!%%!@^#@@& $$ &@%^%^^^^^^^&&&&&&&^&&&&&&&&&& !&&&&&&&&&@
+    !&@!@@@@@& @^^^&&&&&& @^&&&&&&&&&&&&&!@%#! #$#@@& !!^ !^%@@@@@@@@@@@@!@!  @!!!!!!   %%@@@@!@
+      %!%$###$@!^!!!!@@@@  ^%%$%%%$%%%%%@ %%&  ##@!!&  ^!  !&&^&^^^^^^^%%%!  ^^^^^^^@  ^&&&^^^%
+         @###$##& ^!!!!!@!& &$&&#&&$^^$!^ $$^  $#!!!^  &!@ @ &^!^&!%&!!^^  @&&&&&&%  @^%@@@@
+          @#!!!@!^ !%&%$#@!!#^#!%%@%%@&%# !#!  $#@!!^  !@  @^%#&@%^%&%&%^&^&^%@    @&^^^^%@
+              %#!!!@$@@^%%%@&$&@%$@&@!^@!  &@!%%%@@@ @!@!  !&  &% %^! %^!  !%@  ^^&&&^@
+                @^^@^%#!!!#&@$@$@^!#!%!&%!#  %!!$%%$##&  %$!@%& &%^ ^^&^ !^&&&&%!
+                     @&&^! %##& ^@%!^#&!#$  %  @%^%@   &  && !&& @&^  ^&^   !!
+                                           ! @@^&^%^%@  %
+                              !^         %@  @!!!&&@!@$  #         !
+                                @^@     &@  !@^&!&&!@^@%  #@     %!
+                                   @%@ &@! @!!!@!&&@^!@#&  $! @!
+                                          #!!%%!!^&@# %$$%
+                                         ^#!!!#!!^&@#^%@$%
+                                           !  @@@%^@$^
+</pre>
+
+<h1>KOUROSH SYSTEM</h1>
+
+<sub>PYTHON DEVELOPER • AI • COMPUTER VISION</sub>
+
+<br><br>
 
 <a href="https://github.com/mamirabadi1389-lang">
-  <img src="https://img.shields.io/badge/GitHub-10101A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
-  <img src="https://img.shields.io/badge/Telegram-10101A?style=for-the-badge&logo=telegram&logoColor=00C9FF" />
+  <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00C9FF" alt="Telegram"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%26+Machine+Learning;Computer+Vision;Game+Development;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=KOUROSH+SYSTEM;Python+Developer;Artificial+Intelligence;Computer+Vision;Always+Building+Something+New" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## About Me
+## `01` — About Me
 
 ```python
-class MohammadAmirabadi:
+class KouroshSystem:
 
     def __init__(self):
-        self.name = "Mohammad Amirabadi"
-        self.role = "Python Developer"
-
+        self.language = "Python"
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
@@ -35,82 +78,86 @@ class MohammadAmirabadi:
             "Game Development"
         ]
 
-    def goals(self):
-        return [
-            "Build useful projects",
-            "Learn new technologies",
-            "Contribute to Open Source"
-        ]
+    def goal(self):
+        return "Build useful things with code"
 ```
 
 ---
 
-## Tech Stack
+## `02` — Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,mongodb,sqlite,git,github,vscode,opencv" />
-
-</div>
-
-## Featured Projects
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/mamirabadi1389-lang/gesture-volume-control">
-        <img src="https://img.shields.io/badge/Hand%20Gesture%20Control-7F00FF?style=for-the-badge&logo=python&logoColor=white" alt="Hand Gesture Control" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mamirabadi1389-lang/Cancer-diagnosis">
-        <img src="https://img.shields.io/badge/Cancer%20Diagnosis-00A6C7?style=for-the-badge&logo=python&logoColor=white" alt="Cancer Diagnosis" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/mamirabadi1389-lang/pandas_and_MongoDB">
-        <img src="https://img.shields.io/badge/Pandas%20%26%20MongoDB-00B894?style=for-the-badge&logo=mongodb&logoColor=white" alt="Pandas and MongoDB" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mamirabadi1389-lang/daily_planner">
-        <img src="https://img.shields.io/badge/Daily%20Planner-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Daily Planner" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-## GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=mamirabadi1389-lang&theme=tokyonight&hide_border=true&background=0D1117&ring=7F00FF&fire=00C9FF&currStreakLabel=00C9FF"
-  width="90%"
-  alt="GitHub Contribution Streak"
-/>
+<img src="https://skillicons.dev/icons?i=python,html,mongodb,sqlite,git,github,vscode,opencv&theme=dark" alt="Tech Stack"/>
 
 </div>
 
 ---
 
-## Current Focus
+## `03` — Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Hand Gesture Control
+
+Control Windows volume using hand gestures with Python, OpenCV, and MediaPipe.
+
+<a href="https://github.com/mamirabadi1389-lang/gesture-volume-control">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Cancer Diagnosis
+
+A machine learning project focused on classification and medical data analysis.
+
+<a href="https://github.com/mamirabadi1389-lang/Cancer-diagnosis">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Pandas & MongoDB
+
+Working with CSV data and MongoDB using Python and Pandas.
+
+<a href="https://github.com/mamirabadi1389-lang/pandas_and_MongoDB">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Daily Planner
+
+A Python project for organizing daily tasks and activities.
+
+<a href="https://github.com/mamirabadi1389-lang/daily_planner">View Repository →</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `04` — Current Focus
 
 - Machine Learning
 - Computer Vision
 - Python Development
-- MongoDB & Database Systems
+- Database Systems
 - Building Practical Projects
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:7F00FF&height=120&section=footer"/>
-
-### Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:32106B,100:00C9FF&height=100&section=footer" alt="Footer"/>
 
 **Code. Learn. Build. Repeat.**
 
