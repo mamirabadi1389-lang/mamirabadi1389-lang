@@ -188,9 +188,6 @@ A Python application for organizing daily tasks and activities.
 ## `05` — GitHub Statistics
 
 <div align="center">
-
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=mamirabadi1389-lang&show_icons=true&hide_border=true&bg_color=101820&title_color=5EEAD4&icon_color=C6A15B&text_color=E5E7EB&rank_icon=github" alt="GitHub Statistics"/>
-
 <br><br>
 
 <img
