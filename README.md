@@ -193,7 +193,11 @@ A Python application for organizing daily tasks and activities.
 
 <br><br>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=mamirabadi1389-lang&hide_border=true&background=101820&ring=C6A15B&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub Contribution Streak"/>
+<img
+  width="90%"
+  src="https://streak-stats.demolab.com?user=mamirabadi1389-lang&hide_border=true&background=101820&ring=C6A15B&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=E5E7EB&sideNums=F5E6C8&currStreakNum=F5E6C8&dates=94A3B8"
+  alt="GitHub Contribution Streak"
+/>
 
 </div>
 
