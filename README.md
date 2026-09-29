@@ -1,167 +1,108 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:101820,25:123C45,55:0F766E,80:8C6B35,100:C6A15B&text=KOUROSH%20SYSTEM&fontSize=44&fontColor=F5E6C8&fontAlignY=38&desc=ROOTED%20IN%20HERITAGE.%20BUILT%20FOR%20THE%20FUTURE.&descSize=13&descAlignY=57&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:101820,50:164E63,100:C6A15B&text=KOUROSH%20SYSTEM&fontSize=42&fontColor=F5E6C8&fontAlignY=45&desc=PYTHON%20%2F%2F%20MACHINE%20LEARNING&descSize=15&descAlignY=65"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=5EEAD4&center=true&vCenter=true&width=650&lines=Python+Developer;Artificial+Intelligence;Computer+Vision;Inspired+by+Persian+Heritage;Building+the+Future+with+Code" alt="Typing SVG"/>
+<sub>✦ ریشه در ایران، نگاه به آینده ✦</sub>
 
 <br><br>
 
 <a href="https://github.com/mamirabadi1389-lang">
-<img src="https://img.shields.io/badge/GITHUB-101820?style=for-the-badge&logo=github&logoColor=F5E6C8" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=F5E6C8" alt="GitHub"/>
 </a>
 <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
-<img src="https://img.shields.io/badge/TELEGRAM-101820?style=for-the-badge&logo=telegram&logoColor=5EEAD4" alt="Telegram"/>
+<img src="https://img.shields.io/badge/Telegram-101820?style=for-the-badge&logo=telegram&logoColor=5EEAD4" alt="Telegram"/>
 </a>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/ORIGIN-IRAN-0F766E?style=flat-square&labelColor=101820" alt="Iran"/>
-<img src="https://img.shields.io/badge/FOCUS-PYTHON%20%26%20AI-C6A15B?style=flat-square&labelColor=101820" alt="Focus"/>
-<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20BUILDING-164E63?style=flat-square&labelColor=101820" alt="Mindset"/>
-
-<br><br>
-
-<sub>✦ ریشه در ایران، نگاه به آینده ✦</sub>
-
 </div>
 
 ---
 
-<div align="center">
-
-### ❖ 𓂀 ❖
-
-**PERSIAN HERITAGE · MODERN TECHNOLOGY**
-
-<sub>
-Inspired by the geometry, craftsmanship, and architectural legacy of ancient Persia.
-</sub>
-
-</div>
-
----
-
-## `01` — The Identity
+## درباره من | About Me
 
 ```python
 class KouroshSystem:
 
     def __init__(self):
         self.name = "Kourosh System"
-        self.role = "Python Developer"
-        self.origin = "Iran"
+        self.language = "Python"
+        self.field = "Machine Learning"
 
         self.interests = [
-            "Artificial Intelligence",
+            "Python Development",
             "Machine Learning",
-            "Computer Vision",
-            "Web Development",
-            "Game Development"
+            "Data Analysis",
+            "Database Systems"
         ]
 
-        self.motto = "Build with purpose."
-
-    def mission(self):
-        return "Turn ideas into practical software."
+    def goal(self):
+        return "Learn, build, and improve."
 ```
 
-I'm a Python developer interested in creating practical applications, exploring intelligent systems, and learning through real-world projects.
+I'm a Python developer exploring machine learning and building practical software projects.
 
-My work combines a passion for technology with an appreciation for Persian heritage, thoughtful design, and continuous learning.
+I enjoy learning new concepts, experimenting with data, and turning ideas into working applications.
 
 ---
 
-## `02` — Technology Arsenal
+## ابزارها و فناوری‌ها
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mongodb,sqlite,git,github,vscode,opencv&theme=dark&perline=5" alt="Technology Stack"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mongodb,sqlite,git,github,vscode&theme=dark&perline=5" alt="Technologies"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/COMPUTER_VISION-0F766E?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-<img src="https://img.shields.io/badge/DATABASES-C6A15B?style=for-the-badge&logo=mongodb&logoColor=101820" alt="Databases"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0F766E?style=flat-square" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Databases-C6A15B?style=flat-square&labelColor=101820" alt="Databases"/>
 
 </div>
 
 ---
 
-## `03` — Featured Projects
+## پروژه‌های منتخب
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/mamirabadi1389-lang/gesture-volume-control">
-<img src="https://img.shields.io/badge/01-7C3AED?style=flat-square&label=PROJECT&labelColor=101820" alt="Project 01"/>
-</a>
-
 ### Hand Gesture Control
 
-A computer vision application for controlling Windows volume through hand gestures.
+A Python project for controlling Windows volume through hand gestures.
 
-**Technologies**
-
-`Python` `OpenCV` `MediaPipe`
-
-<a href="https://github.com/mamirabadi1389-lang/gesture-volume-control">Explore Repository ↗</a>
+<a href="https://github.com/mamirabadi1389-lang/gesture-volume-control">مشاهده مخزن ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/mamirabadi1389-lang/Cancer-diagnosis">
-<img src="https://img.shields.io/badge/02-0F766E?style=flat-square&label=PROJECT&labelColor=101820" alt="Project 02"/>
-</a>
-
 ### Cancer Diagnosis
 
-A machine learning classification project focused on cancer-related data.
+A machine learning classification project using cancer-related data.
 
-**Technologies**
-
-`Python` `Machine Learning`
-
-<a href="https://github.com/mamirabadi1389-lang/Cancer-diagnosis">Explore Repository ↗</a>
+<a href="https://github.com/mamirabadi1389-lang/Cancer-diagnosis">مشاهده مخزن ↗</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/mamirabadi1389-lang/pandas_and_MongoDB">
-<img src="https://img.shields.io/badge/03-C6A15B?style=flat-square&label=PROJECT&labelColor=101820" alt="Project 03"/>
-</a>
-
 ### Pandas & MongoDB
 
-A project for working with CSV files and transferring data into MongoDB.
+A project for processing CSV data and working with MongoDB.
 
-**Technologies**
-
-`Python` `Pandas` `MongoDB`
-
-<a href="https://github.com/mamirabadi1389-lang/pandas_and_MongoDB">Explore Repository ↗</a>
+<a href="https://github.com/mamirabadi1389-lang/pandas_and_MongoDB">مشاهده مخزن ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/mamirabadi1389-lang/daily_planner">
-<img src="https://img.shields.io/badge/04-DB2777?style=flat-square&label=PROJECT&labelColor=101820" alt="Project 04"/>
-</a>
-
 ### Daily Planner
 
-A Python application for organizing daily tasks and activities.
+A Python application for organizing daily tasks.
 
-**Technologies**
-
-`Python`
-
-<a href="https://github.com/mamirabadi1389-lang/daily_planner">Explore Repository ↗</a>
+<a href="https://github.com/mamirabadi1389-lang/daily_planner">مشاهده مخزن ↗</a>
 
 </td>
 </tr>
@@ -169,32 +110,11 @@ A Python application for organizing daily tasks and activities.
 
 ---
 
-## `04` — Current Focus
+## در حال یادگیری
 
 <div align="center">
 
-| AREA | DIRECTION |
-|:---|:---|
-| `01` Python | Application development |
-| `02` AI / ML | Machine learning and classification |
-| `03` Computer Vision | Image processing and visual systems |
-| `04` Databases | Data management and integration |
-| `05` Open Source | Learning, building, and sharing |
-
-</div>
-
----
-
-## `05` — GitHub Statistics
-
-<div align="center">
-<br><br>
-
-<img
-  width="90%"
-  src="https://streak-stats.demolab.com?user=mamirabadi1389-lang&hide_border=true&background=101820&ring=C6A15B&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=E5E7EB&sideNums=F5E6C8&currStreakNum=F5E6C8&dates=94A3B8"
-  alt="GitHub Contribution Streak"
-/>
+`PYTHON` &nbsp; · &nbsp; `MACHINE LEARNING` &nbsp; · &nbsp; `DATA ANALYSIS`
 
 </div>
 
@@ -202,18 +122,16 @@ A Python application for organizing daily tasks and activities.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:101820,35:164E63,70:0F766E,100:C6A15B"/>
-
-### KOUROSH SYSTEM
-
-<sub>𓂀 &nbsp; ROOTED IN HERITAGE · DRIVEN BY INNOVATION &nbsp; 𓂀</sub>
-
-<br><br>
-
-**BUILD WITH PURPOSE · LEARN WITHOUT LIMITS**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:164E63,50:C6A15B,100:164E63"/>
 
 <br>
 
-<sub>Thanks for visiting my profile.</sub>
+**KOUROSH SYSTEM**
+
+<sub>ساخته‌شده با علاقه به فناوری و ریشه‌های ایرانی</sub>
+
+<br><br>
+
+`BUILD · LEARN · IMPROVE`
 
 </div>
