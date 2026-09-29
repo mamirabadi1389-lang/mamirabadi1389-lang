@@ -1,13 +1,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:101820,50:164E63,100:C6A15B&text=KOUROSH%20SYSTEM&fontSize=42&fontColor=F5E6C8&fontAlignY=45&desc=PYTHON%20%2F%2F%20MACHINE%20LEARNING&descSize=15&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:101820,45:164E63,75:0F766E,100:C6A15B&text=Mohammad%20Amirabadi&fontSize=42&fontColor=F5E6C8&fontAlignY=38&desc=PYTHON%20DEVELOPER%20%7C%20MACHINE%20LEARNING&descSize=14&descAlignY=58&animation=fadeIn"/>
 
 <br>
-
-<sub>✦ ریشه در ایران، نگاه به آینده ✦</sub>
-
-<br><br>
 
 <a href="https://github.com/mamirabadi1389-lang">
 <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=F5E6C8" alt="GitHub"/>
@@ -16,38 +12,48 @@
 <img src="https://img.shields.io/badge/Telegram-101820?style=for-the-badge&logo=telegram&logoColor=5EEAD4" alt="Telegram"/>
 </a>
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Python+Developer;Machine+Learning;Building+Practical+Projects;Always+Learning+New+Things" alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FOCUS-PYTHON-0F766E?style=flat-square&labelColor=101820" alt="Python"/>
+<img src="https://img.shields.io/badge/LEARNING-MACHINE%20LEARNING-C6A15B?style=flat-square&labelColor=101820" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20BUILDING-164E63?style=flat-square&labelColor=101820" alt="Mindset"/>
+
 </div>
 
 ---
 
-## درباره من | About Me
+## About Me
 
 ```python
-class KouroshSystem:
+class MohammadAmirabadi:
 
     def __init__(self):
-        self.name = "Kourosh System"
-        self.language = "Python"
-        self.field = "Machine Learning"
+        self.name = "Mohammad Amirabadi"
+        self.role = "Python Developer"
 
         self.interests = [
             "Python Development",
             "Machine Learning",
             "Data Analysis",
-            "Database Systems"
+            "Database Systems",
+            "Web Development"
         ]
 
     def goal(self):
         return "Learn, build, and improve."
 ```
 
-I'm a Python developer exploring machine learning and building practical software projects.
+I'm a Python developer interested in machine learning, data analysis, and building practical applications.
 
-I enjoy learning new concepts, experimenting with data, and turning ideas into working applications.
+I enjoy learning new concepts, solving problems, and turning ideas into working projects.
 
 ---
 
-## ابزارها و فناوری‌ها
+## Tech Stack
 
 <div align="center">
 
@@ -55,54 +61,86 @@ I enjoy learning new concepts, experimenting with data, and turning ideas into w
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0F766E?style=flat-square" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Databases-C6A15B?style=flat-square&labelColor=101820" alt="Databases"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0F766E?style=for-the-badge" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Databases-C6A15B?style=for-the-badge&labelColor=101820" alt="Databases"/>
 
 </div>
 
 ---
 
-## پروژه‌های منتخب
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/mamirabadi1389-lang/gesture-volume-control">
+<img src="https://img.shields.io/badge/PROJECT_01-7C3AED?style=flat-square&labelColor=101820" alt="Project 01"/>
+</a>
+
 ### Hand Gesture Control
 
-A Python project for controlling Windows volume through hand gestures.
+A Python application that controls Windows volume using hand gestures.
 
-<a href="https://github.com/mamirabadi1389-lang/gesture-volume-control">مشاهده مخزن ↗</a>
+**Technologies**
+
+`Python` `OpenCV` `MediaPipe`
+
+<a href="https://github.com/mamirabadi1389-lang/gesture-volume-control">View Repository ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://github.com/mamirabadi1389-lang/Cancer-diagnosis">
+<img src="https://img.shields.io/badge/PROJECT_02-0F766E?style=flat-square&labelColor=101820" alt="Project 02"/>
+</a>
+
 ### Cancer Diagnosis
 
-A machine learning classification project using cancer-related data.
+A machine learning classification project focused on cancer-related data.
 
-<a href="https://github.com/mamirabadi1389-lang/Cancer-diagnosis">مشاهده مخزن ↗</a>
+**Technologies**
+
+`Python` `Machine Learning`
+
+<a href="https://github.com/mamirabadi1389-lang/Cancer-diagnosis">View Repository ↗</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/mamirabadi1389-lang/pandas_and_MongoDB">
+<img src="https://img.shields.io/badge/PROJECT_03-C6A15B?style=flat-square&labelColor=101820" alt="Project 03"/>
+</a>
+
 ### Pandas & MongoDB
 
-A project for processing CSV data and working with MongoDB.
+A project for processing CSV files and importing data into MongoDB.
 
-<a href="https://github.com/mamirabadi1389-lang/pandas_and_MongoDB">مشاهده مخزن ↗</a>
+**Technologies**
+
+`Python` `Pandas` `MongoDB`
+
+<a href="https://github.com/mamirabadi1389-lang/pandas_and_MongoDB">View Repository ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://github.com/mamirabadi1389-lang/daily_planner">
+<img src="https://img.shields.io/badge/PROJECT_04-DB2777?style=flat-square&labelColor=101820" alt="Project 04"/>
+</a>
+
 ### Daily Planner
 
-A Python application for organizing daily tasks.
+A Python application for organizing daily tasks and activities.
 
-<a href="https://github.com/mamirabadi1389-lang/daily_planner">مشاهده مخزن ↗</a>
+**Technologies**
+
+`Python`
+
+<a href="https://github.com/mamirabadi1389-lang/daily_planner">View Repository ↗</a>
 
 </td>
 </tr>
@@ -110,11 +148,27 @@ A Python application for organizing daily tasks.
 
 ---
 
-## در حال یادگیری
+## Currently Learning
 
 <div align="center">
 
-`PYTHON` &nbsp; · &nbsp; `MACHINE LEARNING` &nbsp; · &nbsp; `DATA ANALYSIS`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0F766E?style=flat-square" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-C6A15B?style=flat-square&labelColor=101820" alt="Data Analysis"/>
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=mamirabadi1389-lang&show_icons=true&hide_border=true&bg_color=101820&title_color=5EEAD4&icon_color=C6A15B&text_color=E5E7EB&rank_icon=github" alt="GitHub Statistics"/>
+
+<br><br>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=mamirabadi1389-lang&hide_border=true&background=101820&ring=C6A15B&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=E5E7EB&sideNums=F5E6C8&currStreakNum=F5E6C8&dates=94A3B8" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -122,16 +176,24 @@ A Python application for organizing daily tasks.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:164E63,50:C6A15B,100:164E63"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:101820,40:164E63,75:0F766E,100:C6A15B"/>
 
 <br>
 
-**KOUROSH SYSTEM**
+<img src="./assets/kourosh-logo.png" width="130" alt="Kourosh System Logo"/>
 
-<sub>ساخته‌شده با علاقه به فناوری و ریشه‌های ایرانی</sub>
+<br>
+
+### KOUROSH SYSTEM
+
+<sub>Personal Brand & Software Projects</sub>
 
 <br><br>
 
-`BUILD · LEARN · IMPROVE`
+<code>BUILD · LEARN · IMPROVE</code>
+
+<br><br>
+
+<sub>Thanks for visiting my profile.</sub>
 
 </div>
