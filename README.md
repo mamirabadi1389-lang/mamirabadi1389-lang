@@ -8,7 +8,7 @@
 <a href="https://github.com/mamirabadi1389-lang">
 <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=F5E6C8" alt="GitHub"/>
 </a>
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+<a href="https://t.me/@Pyforever4554">
 <img src="https://img.shields.io/badge/Telegram-101820?style=for-the-badge&logo=telegram&logoColor=5EEAD4" alt="Telegram"/>
 </a>
 
@@ -180,7 +180,7 @@ A Python application for organizing daily tasks and activities.
 
 <br>
 
-<img src="./assets/kourosh-logo.png" width="130" alt="Kourosh System Logo"/>
+<img src="./kourosh-logo.png" width="130" alt="Kourosh System Logo"/>
 
 <br>
 
