@@ -8,7 +8,7 @@
 <tr>
 <td align="center" valign="middle" width="280">
 
-<img src="./profile.png" width="240" alt="Profile"/>
+<img src="./kourosh-logo.png" width="240" alt="Profile"/>
 
 </td>
 <td valign="middle">
